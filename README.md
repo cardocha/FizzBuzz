@@ -1,5 +1,5 @@
 # FizzBuzz
-Desacopled FizzBuzz
+Decoupled FizzBuzz
 
     public void doIt(int finalIndex) {
         FizzBuzzRules rules = new FizzBuzzRules();
